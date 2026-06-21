@@ -95,3 +95,7 @@ public class AccountCollection : Collection<AccountItem>
 記帳結束後點擊 「儲存檔案」 鈕，系統會自動在程式根目錄下建立或更新 finance_data.txt。
 
 即使忘記點擊儲存，在關閉視窗時，系統也會跳出二次防呆確認提示框，詢問是否要更新儲存後再離開。
+
+## Screenshots
+
+![screenshot](./FinanceApp.png)
